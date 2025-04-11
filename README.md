@@ -42,7 +42,7 @@
 
 ### 🛠️ Languages & Tools
 
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,vite,tailwind,firebase,netlify,vercel,vscode,git,github,nextjs,nodejs,express,mongodb,c,c++,java,flutter,msoffice&perline=9)
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,vite,tailwind,firebase,netlify,vercel,vscode,git,github,nextjs,nodejs,express,mongodb,c,java,flutter,msoffice&perline=9)
 
 ---
 
