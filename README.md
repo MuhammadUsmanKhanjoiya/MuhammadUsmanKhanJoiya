@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 Currently learning **Java app** and sharpening my **DSA** skills  
+- 🌱 Currently learning **Python** and sharpening my **DSA** skills  
 - 💻 Check out my projects on [GitHub](https://github.com/MuhammadUsmanKhanjoiya)  
 - 💬 Ask me about:  
   `JavaScript`, `TypeScript`, `React`, `Next.js`, `React Native`, `Node.js`, `Express`, `MongoDB`, `Firebase`  
